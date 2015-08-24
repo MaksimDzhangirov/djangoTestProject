@@ -1,3 +1,5 @@
 db.sqlite3
 __pycache__
 taskbuster/settings/sk.json
+.coverage
+htmlcov
